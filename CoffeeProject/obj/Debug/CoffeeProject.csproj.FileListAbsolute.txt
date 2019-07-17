@@ -1,0 +1,39 @@
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeProject.exe
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeProject.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.LoginForm.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.Cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.exe
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.ForgotPasswordForm.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.RegisterForm.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Coffee.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeOrder.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Coffee.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeOrder.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Customer.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.MainCoffee.resources
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeProject.exe
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeProject.pdb
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\Coffee.dll
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeOrder.dll
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\Customer.dll
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\Coffee.pdb
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeOrder.pdb
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\bin\Debug\Customer.pdb
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.ForgotPasswordForm.resources
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.LoginForm.resources
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.MainCoffee.resources
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.RegisterForm.resources
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csproj.CopyComplete
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.exe
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.pdb

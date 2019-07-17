@@ -1,0 +1,12 @@
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\bin\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\bin\Debug\Customer.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\Customer.pdb
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\Customer\bin\Debug\Customer.dll
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\Customer\bin\Debug\Customer.pdb
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\User.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\User.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\Customer.dll
+C:\Users\acer\Downloads\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\Customer.pdb
