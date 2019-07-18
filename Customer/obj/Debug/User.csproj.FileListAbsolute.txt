@@ -1,0 +1,15 @@
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\bin\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\bin\Debug\Customer.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\Customer.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\bin\Debug\Customer.dll
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\bin\Debug\Customer.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\User.csprojAssemblyReference.cache
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\Customer.dll
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\Customer.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\Customer.MasterForm.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\obj\Debug\User.csproj.GenerateResource.cache
+D:\FPT\CalomaCoffee-master\CoffeeProject\Customer\bin\Debug\Customer.dll.config

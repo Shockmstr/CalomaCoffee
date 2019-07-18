@@ -1,0 +1,40 @@
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeProject.exe
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeProject.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.LoginForm.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.Cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.exe
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.ForgotPasswordForm.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.RegisterForm.resources
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Coffee.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeOrder.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Coffee.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\CoffeeOrder.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\bin\Debug\Customer.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\obj\Debug\CoffeeProject.MainCoffee.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeProject.exe
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeProject.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\Coffee.dll
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeOrder.dll
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\Customer.dll
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\Coffee.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\CoffeeOrder.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\Customer.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csprojAssemblyReference.cache
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.ForgotPasswordForm.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.LoginForm.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.MainCoffee.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.RegisterForm.resources
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.cache
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.csproj.CopyComplete
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.exe
+D:\FPT\CalomaCoffee-master\CoffeeProject\obj\Debug\CoffeeProject.pdb
+D:\FPT\CalomaCoffee-master\CoffeeProject\bin\Debug\Customer.dll.config
