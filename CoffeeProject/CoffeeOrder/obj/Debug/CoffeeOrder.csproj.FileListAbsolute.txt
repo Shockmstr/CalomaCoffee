@@ -1,0 +1,6 @@
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\CoffeeOrder\bin\Debug\CoffeeOrder.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\CoffeeOrder\bin\Debug\CoffeeOrder.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\CoffeeOrder\obj\Debug\CoffeeOrder.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\CoffeeOrder\obj\Debug\CoffeeOrder.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\CoffeeOrder\obj\Debug\CoffeeOrder.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\CoffeeOrder\obj\Debug\CoffeeOrder.pdb

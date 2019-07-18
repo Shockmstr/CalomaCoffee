@@ -1,0 +1,6 @@
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\bin\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\bin\Debug\Customer.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\Customer.dll
+D:\StudyReferences\PRN292 - C#\Final Project\CoffeeProject\Customer\obj\Debug\Customer.pdb
