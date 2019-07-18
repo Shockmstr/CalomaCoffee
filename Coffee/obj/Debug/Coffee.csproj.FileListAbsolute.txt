@@ -1,0 +1,12 @@
+D:\StudyReferences\PRN292 - C#\Final Project\Coffee\bin\Debug\Coffee.dll
+D:\StudyReferences\PRN292 - C#\Final Project\Coffee\bin\Debug\Coffee.pdb
+D:\StudyReferences\PRN292 - C#\Final Project\Coffee\obj\Debug\Coffee.csprojResolveAssemblyReference.cache
+D:\StudyReferences\PRN292 - C#\Final Project\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\StudyReferences\PRN292 - C#\Final Project\Coffee\obj\Debug\Coffee.dll
+D:\StudyReferences\PRN292 - C#\Final Project\Coffee\obj\Debug\Coffee.pdb
+D:\FPT\CalomaCoffee-master\Coffee\bin\Debug\Coffee.dll
+D:\FPT\CalomaCoffee-master\Coffee\bin\Debug\Coffee.pdb
+D:\FPT\CalomaCoffee-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\FPT\CalomaCoffee-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\FPT\CalomaCoffee-master\Coffee\obj\Debug\Coffee.dll
+D:\FPT\CalomaCoffee-master\Coffee\obj\Debug\Coffee.pdb
